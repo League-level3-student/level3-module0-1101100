@@ -14,7 +14,7 @@ public class _01_RobotRace {
 	static int q;
 	//1. make a main method
 	public static void main(String[] args) {
-		
+		boolean top = false;
 	
 		//2. create an array of 5 rorob.
 		Robot[] rob = new Robot[5];

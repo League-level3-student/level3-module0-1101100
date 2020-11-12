@@ -17,7 +17,7 @@ public class _00_1D_Array_Methods {
 		
 		int result = 0;
 		for (int i = 0; i < values.length; i++) {
-			result = result + values[i];
+			result += + values[i];
 		}
 		return result/values.length;
 	}
